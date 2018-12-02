@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    width:100%;
+    height: auto;
+}
+.div1{
+    width:490px;
+    height: 420px;
+    border:2px solid dodgerblue;
+    background: #c5d8f2;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top:90px;
+    text-align: center;
+}
+.div2{
+    width:400px;
+    height: 350px;
+    border:2px solid orangered;
+    background: tomato;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top:-380px;
+    text-align: center;
+}
+.div3{
+    width:300px;
+    height: 250px;
+    border:2px solid white;
+    background: transparent;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top:-300px;
+    text-align: center;
+}
